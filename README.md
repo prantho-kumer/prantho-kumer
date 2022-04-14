@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning PHP & MYSQL
 - 💞️ I’m looking to collaborate on Web project
-- 📫 How to reach me? Email: pranthokumerdas@gmail.com | www.freelancer.com/u/pranthokumer
+- 📫 How to reach me? Email: pranthokumerdas@gmail.com 
 
 <!---
 prantho-kumer/prantho-kumer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
