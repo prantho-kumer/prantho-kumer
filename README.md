@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prantho-kumer A Web Developer
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Web project
 - 📫 How to reach me? Email: pranthokumerdas@gmail.com 
 
